@@ -104,7 +104,7 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 ### Submit the output of:
 
 ### 1. git config -l
-![git](ex6gitconfig-l.jpg)
+![git](ex6gitconfig-l.JPG)
 
 ### 2. git remote -v
 
