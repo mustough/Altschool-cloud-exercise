@@ -74,21 +74,21 @@ _whoami_
 ## Exercise 3
 ### 1. Create 3 groups – admin, support & engineering and add the admin group to sudoers
 _Groups created_
- ![groups](groups.jpg)
+ ![groups](groups.JPG)
 
 ### 2. Generate SSH keys for the user in the admin group
 
 _SSH keys generated_
-![ssh](ssh-keygen.jpg)
+![ssh](ssh-keygen.JPG)
 
 ### 3. contents of /etc/passwd,
-![passwd](users.jpg)
+![passwd](users.JPG)
 
 ### 4. contents of /etc/group
-![group](groups.jpg)
+![group](groups.JPG)
 
 ### 5. contents of /etc/sudoers
-![sudoers](ex3sudoers.jpg)
+![sudoers](ex3sudoers.JPG)
 
 ## Exercise 4
 Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo.
