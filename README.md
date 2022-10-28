@@ -26,17 +26,17 @@ A compilation of all Altschool exercises
 
 _cat script.sh_
 
-![cat](ex2cat.JPG)
+![cat](ex2cat.jpg)
 
 2. The cd command is used to change the current directory. To run the cd command, type cd followed by the directory name. For instance:
     
 _/home/vagrant/memory_logs_
-![cd](ex2cd.JPG)
+![cd](ex2cd.jpg)
 
 3. The chmod command is used to change the permissions of a file or directory. To run the chmod command, type chmod followed by the permission code and the file name. For instance:
     
 _chmod email.sh -x_
-![chmod](ex2chmod.JPG)
+![chmod](ex2chmod.jpg)
 
 4. The chown command is used to change the owner of a file or directory. To run the chown command, type chown followed by the new owner and the file name. For instance:  
 
@@ -46,65 +46,65 @@ _chown vagrant email.sh_
 5. The cp command is used to copy files and directories. To run the cp command, type cp followed by the file name and its extension, and the destination directory. For instance:    
    
 _cp log_file.log logs_
-![cp](ex2cp.JPG)
+![cp](ex2cp.jpg)
 
 6. The date command is used to display the current date and time. To run the date command, type date. For instance:         
 _date_
-![date](ex2date.JPG)     
+![date](ex2date.jpg)     
 
 7. The df command is used to display the amount of disk space available on the file system. To run the df command, type df. For instance:                   
 _df_
-![df](ex2df.JPG) 
+![df](ex2df.jpg) 
 
 8. The du command is used to display the amount of disk space used by a file or directory. To run the du command, type du followed by the file name and its extension. For instance:
 
 _du log_file.log_
-![du](ex2du.JPG)                        
+![du](ex2du.jpg)                        
 
 9. The echo command is used to display a line of text. To run the echo command, type echo followed by the text. For instance:          
 
 _echo"Hostinger Tutorials"_
-![echo](ex2echo.JPG)        
+![echo](ex2echo.jpg)        
 
 10. The whoami command is used to display the current user. To run the whoami command, type whoami. For instance:          
 
 _whoami_
-![whoami](ex2whoami.JPG)
+![whoami](ex2whoami.jpg)
 
 ## Exercise 3
 ### 1. Create 3 groups – admin, support & engineering and add the admin group to sudoers
 _Groups created_
- ![groups](groups.JPG)
+ ![groups](groups.jpg)
 
 ### 2. Generate SSH keys for the user in the admin group
 
 _SSH keys generated_
-![ssh](ssh-keygen.JPG)
+![ssh](ssh-keygen.jpg)
 
 ### 3. contents of /etc/passwd,
-![passwd](users.JPG)
+![passwd](users.jpg)
 
 ### 4. contents of /etc/group
-![group](groups.JPG)
+![group](groups.jpg)
 
 ### 5. contents of /etc/sudoers
-![sudoers](ex3sudoers.JPG)
+![sudoers](ex3sudoers.jpg)
 
 ## Exercise 4
 Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo.
 
 ### 1. Content of php -v command
-![php](ex4php-v.JPG)
+![php](ex4php-v.jpg)
 
 ### 2. content of /etc/apt/sources.list 
-![sources](ex4sourcelist.JPG)
+![sources](ex4sourcelist.jpg)
 
 
 ##  Exercise 6
 ### Submit the output of:
 
 ### 1. git config -l
-![git](ex6gitconfig-l.JPG)
+![git](ex6gitconfig-l.jpg)
 
 ### 2. git remote -v
 
