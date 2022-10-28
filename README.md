@@ -108,6 +108,19 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 ### 2. git remote -vcd 
 ![git](ex6gitremote-v.jpg)
 
+## Exercise 8
+
+### Submit the content of your script, cronjob and a sample of the email sent, all in the folder for this exercise.
+
+### 1. Content of Bashscript
+![bash](ex8bashscript.jpg)
+
+### 2. Content of cronjob
+![cronjob](ex8cronjob.jpg)
+
+### 3. Sample of email sent
+![email](ex8logfile.jpg)
+
 ## Exercise 9 
 
 _**193.16.20.35/29**_
