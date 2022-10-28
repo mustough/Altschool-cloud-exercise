@@ -102,11 +102,11 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 
 ##  Exercise 6
 ### Submit the output of:
-
 ### 1. git config -l
 ![git](ex6gitconfig-l.JPG)
 
-### 2. git remote -v
+### 2. git remote -vcd 
+![git](ex6gitremote-v.jpg)
 
 ## Exercise 9 
 
