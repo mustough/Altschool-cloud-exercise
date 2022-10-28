@@ -79,6 +79,7 @@ _Groups created_
 ### 2. Generate SSH keys for the user in the admin group
 
 _SSH keys generated_
+
 ![ssh](ssh-keygen.JPG)
 
 ### 3. contents of /etc/passwd,
@@ -88,13 +89,13 @@ _SSH keys generated_
 ![group](groups.JPG)
 
 ### 5. contents of /etc/sudoers
-![sudoers](ex3sudoers.JPG)
+![sudoers](ex3sudoers.jpg)
 
 ## Exercise 4
 Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo.
 
 ### 1. Content of php -v command
-![php](ex4php-v.jpg)
+![php](ex4php-v.JPG)
 
 ### 2. content of /etc/apt/sources.list 
 ![sources](ex4sourcelist.jpg)
@@ -105,21 +106,21 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 ### 1. git config -l
 ![git](ex6gitconfig-l.JPG)
 
-### 2. git remote -vcd 
-![git](ex6gitremote-v.jpg)
+### 2. git remote -v 
+![git](ex6gitremote-v.JPG)
 
 ## Exercise 8
 
 ### Submit the content of your script, cronjob and a sample of the email sent, all in the folder for this exercise.
 
 ### 1. Content of Bashscript
-![bash](ex8bashscript.jpg)
+![bash](ex8bashscript.JPG)
 
 ### 2. Content of cronjob
-![cronjob](ex8cronjob.jpg)
+![cronjob](ex8cronjob.JPG)
 
 ### 3. Sample of email sent
-![email](ex8logfile.jpg)
+![email](ex8logfile.JPG)
 
 ## Exercise 9 
 
