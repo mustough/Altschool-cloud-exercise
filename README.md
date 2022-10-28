@@ -24,7 +24,8 @@ A compilation of all Altschool exercises
 
 1. Concatenate, or cat, is one of the most frequently used Linux commands. It lists, combines, and writes file content to the standard output. To run the cat command, type cat followed by the file name and its extension. For instance:
 
- _cat script.sh_
+_cat script.sh_
+
 ![cat](ex2cat.JPG)
 
 2. The cd command is used to change the current directory. To run the cd command, type cd followed by the directory name. For instance:
