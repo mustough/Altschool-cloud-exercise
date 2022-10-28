@@ -107,3 +107,17 @@ Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package rep
 ![git](ex6gitconfig-l.JPG)
 
 ### 2. git remote -v
+
+## Exercise 9 
+
+_**193.16.20.35/29**_
+
+What is the Network IP, number of hosts, range of IP addresses and broadcast IP from this subnet?
+
+network ip = 193.16.20.32 
+Broadcast IP = 193.16.20.32
+Number of hosts = 6
+subnetmask = 255.255.248
+class = E
+
+
